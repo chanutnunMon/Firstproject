@@ -1,7 +1,7 @@
-// Configuration for your app
-// https://v2.quasar.dev/quasar-cli-vite/quasar-config-file
+://v2.quasar.dev/quasar-cli-vite/quasar-config-file
 
-import { defineConfig } from "#q-app";
+import// ht// Configuration for your app
+tps { defineConfig } from "#q-app";
 
 export default defineConfig((/* ctx */) => {
   return {
