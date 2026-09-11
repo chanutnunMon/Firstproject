@@ -2,23 +2,27 @@
 
 ## Install the dependencies
 
-```bash
+\`\`\`bash
 pnpm install
 # or: yarn/npm/bun install
-```
+\`\`\`
 
 ### Start the app in development mode (HMR, error reporting, etc.)
 
-```bash
+\`\`\`bash
 quasar dev
-```
+\`\`\`
 
 ### Build the app for production
 
-```bash
+\`\`\`bash
 quasar build
-```
+\`\`\`
 
 ### Customize the configuration
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
+
+## Hotfix
+- แก้ไขปัญหาเร่งด่วน (hotfix) เมื่อวันที่ 11/09/2026
+- อัปเดตแก้ไข bug บางส่วนใน branch
